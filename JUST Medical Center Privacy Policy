@@ -1,55 +1,156 @@
-Privacy Policy
-Effective Date: 20-11-2024
+JUST Medical Center Automation App
+Last updated: 15-11-2025
 
-JUST Medical Center Automation is committed to protecting your privacy. This privacy policy outlines how your information is collected, used, and protected when using our app. By using the app, you agree to the practices described in this policy.
+JUST Medical Center Automation (“the App”) is developed for the Jessore University of Science and Technology (JUST) Medical Center to improve healthcare service management. We are committed to protecting user privacy and maintaining the confidentiality of all medical information.
 
-Information We Collect
-We collect the following types of information to provide and improve our services:
+This Privacy Policy explains how we collect, use, and protect information within the App.
 
-Personal Information:
 
-Name, email address, phone number, and other details provided during registration.
-Additional information submitted after the first login (e.g., student ID, department, etc.).
-Usage Information:
+---
 
-Information about how you use the app, including interactions with features such as the dashboard, doctor profiles, and prescriptions.
-Device Information:
+📌 Information We Collect
 
-Device type, operating system, and app version.
-Location Information:
+We may collect the following types of information for operational healthcare purposes:
 
-If you use the call ambulance feature, the app may access your location to enhance emergency assistance.
-How We Use Your Information
-We use the collected information for the following purposes:
+1️⃣ Personal Information
 
-To facilitate login, registration, and email OTP verification.
-To display personalized dashboards and medical profiles.
-To enable features such as viewing doctors, prescriptions, and editing user profiles.
-To ensure the security of your account through password management.
-To improve app functionality and user experience.
-How We Protect Your Information
-We take the security of your information seriously and implement industry-standard measures to safeguard it. These include:
+Full name
 
-Encryption of sensitive data.
-Secure access controls to prevent unauthorized access.
-Regular app updates to address potential vulnerabilities.
-Third-Party Services
-We may use trusted third-party services to enhance functionality (e.g., email verification services). These services are required to comply with data protection standards.
+Email address
 
-Your Rights
-As a user, you have the following rights:
+Phone number
 
-Access and update your personal information through the app's profile editing features.
-Request the deletion of your account by contacting support.
-Opt out of non-essential data collection.
-Data Retention
-We retain your data only as long as necessary to provide the app's services and comply with legal requirements.
+Gender
 
-Changes to This Privacy Policy
-We may update this privacy policy from time to time. Any changes will be communicated via the app or our official website.
+Patient ID
 
-Contact Us
-If you have any questions or concerns about this privacy policy or how your data is handled, please contact us at:
+Role-based identity (Patient / Doctor / Pharmacist / Lab Technician / Admin)
 
-Email: mdjakariaibnaazamkhan@gmail.com
-Phone:+880 1612882257
+
+2️⃣ Medical and Healthcare Information
+
+Prescriptions
+
+Test results
+
+Medical history added by authorized medical staff
+
+
+3️⃣ Technical Information
+
+Device details
+
+Android version
+
+Crash logs (for improving app performance)
+
+
+No biometric data, physical health metrics, camera/fitness sensors are collected.
+
+
+---
+
+🔐 How We Use the Information
+
+The information is used strictly for medical center administrative purposes:
+
+Manage patient profiles and medical records
+
+Create and manage prescriptions
+
+Schedule and track appointments
+
+Manage staff and healthcare workflows
+
+Provide secure access to authorized users
+
+
+We do NOT:
+
+Sell or rent user data to third parties
+
+Provide medical advice or diagnostic services
+
+Use data for advertising purposes
+
+
+
+---
+
+🛡 Data Storage & Security
+
+All data is stored securely in encrypted databases (MongoDB & Firebase)
+
+Role-based authentication ensures that only authorized users can access protected data
+
+Access is logged and monitored to prevent unauthorized use
+
+
+We take reasonable security measures to protect user information but cannot guarantee absolute security due to the nature of digital systems.
+
+
+---
+
+👥 Data Sharing
+
+We only share data in the following situations:
+
+With authorized JUST medical staff for treatment & healthcare management
+
+When required by law enforcement or legal obligations
+
+
+No external commercial organizations or advertisers receive user data.
+
+
+---
+
+🧒 Children’s Privacy
+
+The App is intended only for authorized users of JUST Medical Center.
+It is not designed for or promoted to children for personal use.
+
+
+---
+
+⚙ Permissions Used
+
+The app may request:
+
+Storage/Photos/Camera permissions — only for allowing profile image uploads
+No camera or sensor data is analyzed for health decisions.
+
+
+
+---
+
+🌍 International Data Transfer
+
+All data is handled and stored within secure services and may be processed outside your region only as necessary to operate the system, following legal protections.
+
+
+---
+
+✏️ Changes to This Policy
+
+We may update this Privacy Policy to reflect improvements or legal requirements.
+Updated versions will be published within the App and/or on a webpage.
+
+
+---
+
+📞 Contact Us
+
+If you have any questions about this Privacy Policy or need account help:
+
+Developer/Support Contact:
+Md. Jakaria Ibna Azam Khan
+✉ Email: mdjakariaibnaazamkhan@gmail.com
+📍 Jessore University of Science and Technology (JUST)
+
+
+---
+
+📌 Disclaimer
+
+This app does NOT provide medical advice, diagnosis, or treatment. It is only a healthcare administration system for JUST Medical Center.
